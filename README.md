@@ -7,7 +7,7 @@ note_on_string.py is A simple python script for guitarists that will challenge y
 
 **Here's how it works:**
 * Fire up the app
-* it will pick a note on a string, i.e. "G on the high e string"
+* it will pick a note on a string, i.e. "G on the high E string"
 * Place your finger on the appropriate fret and play the note
 * Press any key and the next challenge will appear
 * This process will continue until all note on all strings have been displayed
