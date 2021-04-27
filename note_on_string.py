@@ -1,5 +1,5 @@
 #python3
-# Josh Gatka
+# Josh Gatka (@witchcu1t) 
 
 '''
 I came up with the idea for this app while reading "Vaideology" by Steve Vai.
